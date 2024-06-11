@@ -5,7 +5,7 @@ This repository contains a fully functional implementation of a Multilayer Perce
 ## Installation
 
 ```
-git clone https://github.com/yourusername/neural-network-from-scratch.git
+git clone https://github.com/gnaaruag/tiny.nn.git
 cd neural-network-from-scratch
 ```
 ## Example Usage
